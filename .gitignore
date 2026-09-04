@@ -107,8 +107,8 @@ dist
 # Docusaurus cache and generated files
 .docusaurus
 
-# Serverless directories
-.serverless/
+# superpowers brainstorm session files
+.superpowers/
 
 # FuseBox cache
 .fusebox/
